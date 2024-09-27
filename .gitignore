@@ -1,0 +1,14 @@
+# Ignore build directories
+dist/
+build/
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore project specific files
+.vscode/
+.idea/
